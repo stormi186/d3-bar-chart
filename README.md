@@ -1,5 +1,9 @@
 # D3 Bar Chart
 
+## Data Set (provided by Free Code Camp)
+
+[GDP Data](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json)
+
 ## User Stories
 
 - User can see a bar chart of US GDP 
